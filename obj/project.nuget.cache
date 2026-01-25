@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D9gIMseMlck=",
+  "dgSpecHash": "59MgikEYBLI=",
   "success": true,
-  "projectFilePath": "/workspaces/Tarea_dia_2/Tarea_dia_2.csproj",
+  "projectFilePath": "/workspaces/segunda-tarea-Lisander-Bautista/Tarea_dia_2.csproj",
   "expectedPackageFiles": [
     "/home/codespace/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.net.test.sdk/17.8.0/microsoft.net.test.sdk.17.8.0.nupkg.sha512",
@@ -93,7 +93,8 @@
     "/home/codespace/.nuget/packages/xunit.extensibility.execution/2.6.0/xunit.extensibility.execution.2.6.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/xunit.runner.visualstudio/2.5.0/xunit.runner.visualstudio.2.5.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/9.0.11/microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
-    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.11/microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512"
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.11/microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/9.0.11/microsoft.netcore.app.host.linux-x64.9.0.11.nupkg.sha512"
   ],
   "logs": []
 }

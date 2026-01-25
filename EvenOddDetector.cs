@@ -24,6 +24,20 @@ public class EvenOddDetector
         
         // TODO: Usa el operador % y if/else para determinar si es PAR o IMPAR
         
+        if (number % 2 == 0)
+        {
+            resultado = "PAR";
+        }
+        else //if (number % 2 == 1)
+        {
+            resultado = "IMPAR";
+        }
+        
         return resultado;
+        throw new NotImplementedException();
+    }
+        public static void Ejecutar()
+    {
+        Console.WriteLine(DetectEvenOdd(10));
     }
 }

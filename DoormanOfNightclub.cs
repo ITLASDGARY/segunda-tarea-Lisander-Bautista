@@ -25,6 +25,26 @@ public class DoormanOfNightclub
         // TODO: Usa if/else para asignar el mensaje correcto según la edad
         // Ejemplo: if (age < 18) { mensaje = "..."; }
         
+        if (age > 60)
+        {
+            mensaje = "Señor, el bingo es al lado";
+        }
+        else if (age >= 18 && age <= 60)
+        {
+            mensaje = "Bienvenido a la fiesta";
+        }
+        else
+        {
+            mensaje = "Fuera de aquí";
+        }
+        
         return mensaje;
+        throw new NotImplementedException();
     }
+
+    public static void Ejecutar()
+    {
+        Console.WriteLine(CheckAccess(10));
+    }
+
 }
